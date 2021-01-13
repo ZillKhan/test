@@ -10,6 +10,7 @@ void setup() {                                        //set up the hardware
 }
 
 //added changes in this line of code
+// added new comment to test git
 void loop() {                                         //here we go...
 
   String temp = "";
